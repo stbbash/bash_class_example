@@ -69,4 +69,9 @@ class FindMaxAndMin:
                 self.max_value = num
             elif num < self.min_value:
                 self.min_value = num
+                
+    def get_max(self):
+        return self.max_value
 
+    def get_min(self):
+        return self.min_value
