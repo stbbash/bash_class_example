@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='bash_class_example',
-    version='0.1.1',
+    version='0.1.2',
     author='Donatus Ajaezu',
     author_email='donatusajaezu@example.com',
     description='A test of Classes stored in Bash Class',
